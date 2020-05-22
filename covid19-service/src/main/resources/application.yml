@@ -1,0 +1,10 @@
+covid19:
+  service:
+    elasticsearch:
+      host: localhost
+      port: 9201
+spring:
+  security:
+    user:
+      name: apiuser
+      password: apiuser
