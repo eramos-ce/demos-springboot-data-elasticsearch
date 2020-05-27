@@ -29,7 +29,7 @@ public class Covid19DataUpdate {
 
   @Data
   @Builder
-  public class Geometry {
+  public static class Geometry {
     private double lat,lon;
   }
 
